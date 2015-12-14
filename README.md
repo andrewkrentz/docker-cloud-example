@@ -2,8 +2,8 @@
 Sample Python Flask application used to demonstrate how to deploy applications to cloud environments using Docker
 
 ### Required Software
-[Docker](https://docs.docker.com/engine/installation/)
-[Docker Compose](https://docs.docker.com/compose/install/)
+  -[Docker](https://docs.docker.com/engine/installation/)
+  -[Docker Compose](https://docs.docker.com/compose/install/)
 
 ### Running Locally
 
