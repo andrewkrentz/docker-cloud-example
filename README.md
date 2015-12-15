@@ -48,3 +48,11 @@ docker-compose up -d
 
 To connect to the web application, you will need to make sure that your AWS security group for the instance
 has port 80 open.
+
+To shutdown the remote Docker machine host, run the following commands:
+```
+docker-machine stop [Docker hostname]
+docker-machine rm [Docker hostname]
+```
+
+This will shutdown the containers and terminate the EC2 instance.
